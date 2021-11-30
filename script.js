@@ -1,4 +1,4 @@
-//Ressource: "JSON Viewer Pro" => extension pour chrome, pour faciliter le traitement des données JSON.
+//Ressource: "JSON Viewer Pro" => extension pour chrome, pour faciliter la manipulation des données JSON.
 // url de l'API Blockchain.info
 const url = 'https://blockchain.info/ticker';
 
@@ -22,7 +22,7 @@ function recupererPrix () {
       }
     }
   }
-  //console.log('yep') // Permet juste de vérifier si la fonction 'recupererPrix' s'actualise bien
+  console.log('yep') // Permet juste de vérifier si la fonction 'recupererPrix' s'actualise bien
 }
 
 // Mise en place de setInterval
