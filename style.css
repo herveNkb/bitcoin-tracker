@@ -1,0 +1,18 @@
+html,
+body {
+  background: rgb(203, 202, 213);
+  background: linear-gradient(
+    90deg,
+    rgba(203, 202, 213, 1) 0%,
+    rgba(49, 182, 187, 0.9920343137254902) 39%,
+    rgba(53, 149, 186, 1) 62%,
+    rgba(81, 65, 230, 0.9808298319327731) 80%
+  );
+}
+h1 {
+  color: #272343;
+}
+
+#price {
+  font-size: 4em;
+}
