@@ -11,8 +11,10 @@ body {
 }
 h1 {
   color: #272343;
+  padding-top: 150px;
 }
 
 #price {
   font-size: 4em;
+  padding-top: 30px;
 }
