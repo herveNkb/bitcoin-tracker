@@ -2,7 +2,7 @@
 // url de l'API Blockchain.info
 const url = 'https://blockchain.info/ticker';
 
-// Fonction pour actuliser la requête avec setInterval
+// Fonction pour actualiser la requête avec setInterval
 function recupererPrix () { 
   // Création de la requête
   let requete = new XMLHttpRequest();
